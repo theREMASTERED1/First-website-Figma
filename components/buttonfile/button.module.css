@@ -1,0 +1,15 @@
+.container {
+  background: linear-gradient(90deg, #0a4999 0%, #60b6f4 99.75%);
+  border-radius: 30px;
+  border: none;
+  width: 184.46px;
+  height: 59px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+
+  color: #ffffff;
+  cursor: pointer;
+}
